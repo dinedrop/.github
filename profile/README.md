@@ -1,6 +1,6 @@
 # DineDrop
 
-![DineDrop logo](./logo.png)
+![DineDrop logo](./logo-wide.png)
 
 DineDrop is an open-source project aimed at creating a platform similar to Uber Eats that allows customers to order food from local restaurants. Our mission is to make it easy for people to discover new restaurants and support local businesses.
 
