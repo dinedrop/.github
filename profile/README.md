@@ -27,7 +27,7 @@ We expect all contributors to adhere to our Code of Conduct, which outlines our 
 
 ## Contact
 
-If you have any questions or would like to get in touch with us, please email us at [contact@dinedrop.com](mailto:contact@dinedrop.com). You can also find us on [Twitter](https://twitter.com/dinedrop) and [Facebook](https://facebook.com/dinedrop).
+If you have any questions or would like to get in touch with us, please email us at [contact@dinedrop.com](mailto:rhythmshandlya@gmail.com)
 
 ## License
 
