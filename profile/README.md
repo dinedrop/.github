@@ -8,7 +8,8 @@ DineDrop is an open-source project aimed at creating a platform similar to Uber 
 
 Here are the main projects that we are currently working on:
 
-- [DineDrop Mobile App](https://github.com/DineDrop/mobile-app): A mobile application that allows customers to browse and order from local restaurants on the go.
+- [DineDrop Mobile App](https://github.com/DineDrop/dine-drop-native): A mobile application that allows customers to browse and order from local restaurants on the go.
+- [Microservice Backend](https://github.com/DineDrop/infra): A restful microservice-based backend with asyncronous communication and best practices
 
 ## Contributing
 
